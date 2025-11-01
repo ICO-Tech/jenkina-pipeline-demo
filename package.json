@@ -1,0 +1,24 @@
+{
+  "name": "jenkina-pipeline-demo",
+  "version": "1.0.0",
+  "description": "This repository demonstrates a complete CI/CD pipeline using Jenkins integrated with GitHub. The project automates the process of building, testing, and deploying a simple Node.js application. It showcases how continuous integration and continuos D streamline development workflows, ensure code quality, and enable faster, more reliable deployments.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ICO-Tech/jenkina-pipeline-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ICO-Tech/jenkina-pipeline-demo/issues"
+  },
+  "homepage": "https://github.com/ICO-Tech/jenkina-pipeline-demo#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
